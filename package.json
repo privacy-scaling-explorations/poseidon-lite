@@ -7,7 +7,7 @@
     "hash",
     "zk"
   ],
-  "homepage": "https://github.com/vimwitch/poseidon-lite#readme",
+  "homepage": "https://github.com/privacy-scaling-explorations/poseidon-lite#readme",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
